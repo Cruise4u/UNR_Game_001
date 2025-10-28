@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\pedro\\documents\\github\\codename_emerald_unr\\intermediate\\build\\win64\\unrealeditor\\inc\\codename_emerald_unr\\uht\\mycharacter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\pedro\\documents\\github\\codename_emerald_unr\\intermediate\\build\\win64\\x64\\codename_emerald_unreditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\pedro\\documents\\github\\codename_emerald_unr\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\codename_emerald_unr\\definitions.codename_emerald_unr.h",
+            "c:\\users\\pedro\\documents\\github\\codename_emerald_unr\\source\\codename_emerald_unr\\mycharacter.h",
+            "e:\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "e:\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "e:\\ue_5.3\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "e:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "e:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "e:\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "e:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "e:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "c:\\users\\pedro\\documents\\github\\codename_emerald_unr\\intermediate\\build\\win64\\unrealeditor\\inc\\codename_emerald_unr\\uht\\mycharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

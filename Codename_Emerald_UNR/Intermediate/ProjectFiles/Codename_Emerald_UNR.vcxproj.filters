@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Codename_Emerald_UNR.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Codename_Emerald_UNR.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Codename_Emerald_UNREditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Codename_Emerald_UNR">
+      <UniqueIdentifier>{5505D5BB-AF0D-32F6-8DEF-6E3AD21E84B3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Codename_Emerald_UNR\Codename_Emerald_UNR.Build.cs">
+      <Filter>Source\Codename_Emerald_UNR</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Codename_Emerald_UNR\Codename_Emerald_UNR.cpp">
+      <Filter>Source\Codename_Emerald_UNR</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Codename_Emerald_UNR\Codename_Emerald_UNR.h">
+      <Filter>Source\Codename_Emerald_UNR</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Codename_Emerald_UNR\MyCharacter.cpp">
+      <Filter>Source\Codename_Emerald_UNR</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Codename_Emerald_UNR\MyCharacter.h">
+      <Filter>Source\Codename_Emerald_UNR</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

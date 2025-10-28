@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Codename_Emerald_UNR.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\pedro\Documents\GitHub\Codename_Emerald_UNR\Intermediate\Build\Win64\x64\Codename_Emerald_UNREditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"C:\Users\pedro\Documents\GitHub\Codename_Emerald_UNR\Intermediate\Build\Win64\x64\UnrealEditor\Development\Codename_Emerald_UNR\Codename_Emerald_UNR.init.gen.cpp.obj"
+"C:\Users\pedro\Documents\GitHub\Codename_Emerald_UNR\Intermediate\Build\Win64\x64\UnrealEditor\Development\Codename_Emerald_UNR\MyCharacter.gen.cpp.obj"
+"C:\Users\pedro\Documents\GitHub\Codename_Emerald_UNR\Intermediate\Build\Win64\x64\UnrealEditor\Development\Codename_Emerald_UNR\Codename_Emerald_UNR.cpp.obj"
+"C:\Users\pedro\Documents\GitHub\Codename_Emerald_UNR\Intermediate\Build\Win64\x64\UnrealEditor\Development\Codename_Emerald_UNR\MyCharacter.cpp.obj"
+"C:\Users\pedro\Documents\GitHub\Codename_Emerald_UNR\Intermediate\Build\Win64\x64\UnrealEditor\Development\Codename_Emerald_UNR\Default.rc2.res"
+/OUT:"C:\Users\pedro\Documents\GitHub\Codename_Emerald_UNR\Intermediate\Build\Win64\x64\UnrealEditor\Development\Codename_Emerald_UNR\UnrealEditor-Codename_Emerald_UNR.lib"

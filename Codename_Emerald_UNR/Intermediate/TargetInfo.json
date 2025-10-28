@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Codename_Emerald_UNR",
+			"Path": "..\\Source\\Codename_Emerald_UNR.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Codename_Emerald_UNREditor",
+			"Path": "..\\Source\\Codename_Emerald_UNREditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

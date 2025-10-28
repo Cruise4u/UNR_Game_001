@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\pedro\\documents\\github\\codename_emerald_unr\\source\\codename_emerald_unr\\codename_emerald_unr.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\pedro\\documents\\github\\codename_emerald_unr\\intermediate\\build\\win64\\x64\\codename_emerald_unreditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\pedro\\documents\\github\\codename_emerald_unr\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\codename_emerald_unr\\definitions.codename_emerald_unr.h",
+            "c:\\users\\pedro\\documents\\github\\codename_emerald_unr\\source\\codename_emerald_unr\\codename_emerald_unr.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
